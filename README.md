@@ -1,5 +1,17 @@
-### Hi there 👋
+# Hi there!
+## About me
 
+My name is Elias but online i'm known as lolmanQ
+
+## Programming languages
+
+ - C#
+ - Javascript
+ - HTML5/HTML
+ - CSS
+ - SCSS
+ - PHP
+ - Node.js
 <!--
 **lolmanQ/lolmanQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
