@@ -17,6 +17,7 @@ My name is Elias but online i'm known as lolmanQ
 
 ### Dual time
 Imagine you take the level cause and effect from Titanfall 2, and you make a parkour system based on ghost runner and other movement games and boom you have this game
+[itch.io](https://lolmanq.itch.io/dual-time)
 
 ![Dual-time-level-1](https://user-images.githubusercontent.com/32110106/135497293-2a837dc6-bbdd-4809-83f3-adac53df0116.gif)
 
