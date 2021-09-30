@@ -3,17 +3,18 @@
 
 My name is Elias but online i'm known as lolmanQ
 
-## Programming languages
+I have now been programming for 5 years, and work on a fair few projects
 
- - C#
- - Javascript
- - HTML5/HTML
- - CSS
- - SCSS
- - PHP
- - Node.js
+## My skills
 
-## Projects i have worked/working on
+ - Unity (2-3 years)
+I have worked with practically all systems in unity from animations to lighting
+ - C# (2-3 years)
+I have a background in software development and game development so i have a understanding of more complex sides of the C# language
+ - C++ (1 week)
+I have started making a [game engine](https://github.com/lolmanQ/Kragen) as i have experince in C# and other languages i already know most consepts and i just need to know the words
+
+## Games i have worked/working on
 
 ### Dual time
 Imagine you take the level cause and effect from Titanfall 2, and you make a parkour system based on ghost runner and other movement games and boom you have this game
@@ -32,9 +33,18 @@ I served as Lead programmer going on to becoming the project director
 ![Neon-ninja-level-1](https://user-images.githubusercontent.com/32110106/135501863-b26dee69-ed6d-4891-9030-29f92903e3be.png)
 ![Neon-ninja-demo-level](https://user-images.githubusercontent.com/32110106/135501553-4b5989e0-b6f2-4270-bcc3-f09d15011177.gif)
 
+## Kragen
+A game engine in C++
+https://github.com/lolmanQ/Kragen
+(I have nothing to show)
 
-
-
+## Other programming languages i know
+ - Javascript
+ - HTML5/HTML
+ - CSS
+ - SCSS
+ - PHP
+ - Node.js
 <!--
 **lolmanQ/lolmanQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
