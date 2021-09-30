@@ -29,6 +29,9 @@ This game is Ghost runner but from an isometric view
 
 I served as Lead programmer going on to becoming the project director
 ![Neon-ninja-demo-level](https://user-images.githubusercontent.com/32110106/135501553-4b5989e0-b6f2-4270-bcc3-f09d15011177.gif)
+![Neon-ninja-level-1](https://user-images.githubusercontent.com/32110106/135501863-b26dee69-ed6d-4891-9030-29f92903e3be.png)
+
+
 
 <!--
 **lolmanQ/lolmanQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
