@@ -6,15 +6,14 @@ My name is Elias but online i'm known as lolmanQ
 I have now been programming for 5 years, and work on a fair few projects
 
 ## My skills
-
- - Unity (2-3 years)
-   - I have worked with practically all systems in unity from animations to lighting
- - C# (2-3 years)
-   - I have a background in software development and game development so i have a understanding of more complex sides of the C# language
  - Unreal (1 week)
    - Using my knowlage of other game engines to speed learn unreal
  - C++ (1 week)
    - I have started making a [game engine](https://github.com/lolmanQ/Kragen) as i have experince in C# and other languages i already know most consepts and i just need to know the words
+ - Unity (2-3 years)
+   - I have worked with practically all systems in unity from animations to lighting
+ - C# (2-3 years)
+   - I have a background in software development and game development so i have a understanding of more complex sides of the C# language
 
 ## Games i have worked/working on
 
