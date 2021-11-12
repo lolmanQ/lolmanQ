@@ -87,11 +87,25 @@ https://github.com/lolmanQ/Kragen
 
 Loading scenes in unity has always been a bit of spegeti code so i created an improved scenemanagment system
 
+### Easy to use API
+To load a collection of scenes, you only need to pass in a SceneCollection ScriptibleObject
+```cs
+SceneHandler.LoadCollection(SceneCollectionSO collectionToLoad)
+```
+### Scene collection
+![SceneManagmentSceneCollection](https://user-images.githubusercontent.com/32110106/141475171-fc376af7-7c02-4874-9ef7-00c7cf8aa27b.png)
+
+### Easy to use editor UI
+![SceneManagementEditorUI](https://user-images.githubusercontent.com/32110106/141475602-ddd4cb7b-2b1b-48dc-b9b9-650406f4f4dd.png)
+
+
 ## Dynamic local mesh LOD
 - Project type: In game system
 - Personal project
 
 Based on the players distance to a point in a mesh it either increases or decreses the amount of triangles on that section of the mesh proceduraly
+![LocalMeshLOD](https://user-images.githubusercontent.com/32110106/141476226-214d8ce1-db6f-48e1-96ab-15d02f33f5eb.png)
+
 
 https://github.com/lolmanQ/TerrainGenerator
 
@@ -100,6 +114,8 @@ https://github.com/lolmanQ/TerrainGenerator
 - Personal project
 
 Pocedural terrain generation with perlin noise
+![PrucedualTerrain](https://user-images.githubusercontent.com/32110106/141476253-94c65152-415a-449e-a481-b265b07da759.png)
+
 
 https://github.com/lolmanQ/TerrainGenerator
 
@@ -124,4 +140,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
