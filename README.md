@@ -104,6 +104,7 @@ SceneHandler.LoadCollection(SceneCollectionSO collectionToLoad)
 - Personal project
 
 Based on the players distance to a point in a mesh it either increases or decreses the amount of triangles on that section of the mesh proceduraly
+
 ![LocalMeshLOD](https://user-images.githubusercontent.com/32110106/141476226-214d8ce1-db6f-48e1-96ab-15d02f33f5eb.png)
 
 
