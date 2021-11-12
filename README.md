@@ -53,14 +53,15 @@ I served as lead programmer. One of my many responsibilities was the movement
 ![Dual-time-level-2](https://user-images.githubusercontent.com/32110106/135497035-99d6dd43-9439-4f0c-ab61-cc52d508d612.gif)
 
 ## Neon ninja
+![Neon-ninja-level-1](https://user-images.githubusercontent.com/32110106/135501863-b26dee69-ed6d-4891-9030-29f92903e3be.png)
 - Project type: Game
 - My role: Project director, Lead programmer,
-- Team size: 10-20 (1-5 programmers, 1 game designer, 1 artist)
+- Team size: 10-20 (1-5 programmers, 1 game designer, 3-8 artist, 3 composers/sfx)
 
 This game is Ghost runner but from an isometric view
 
 I served as Lead programmer going on to becoming the project director
-![Neon-ninja-level-1](https://user-images.githubusercontent.com/32110106/135501863-b26dee69-ed6d-4891-9030-29f92903e3be.png)
+
 ![Neon-ninja-demo-level](https://user-images.githubusercontent.com/32110106/135501553-4b5989e0-b6f2-4270-bcc3-f09d15011177.gif)
 
 ## Kattch
