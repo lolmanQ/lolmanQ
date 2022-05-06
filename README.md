@@ -24,10 +24,11 @@ C# (2-3 years)
 </ul>
 -->
 
- - C++ (1 month)
+ - C++ (3 month)
    - I have started making a [game engine](https://github.com/lolmanQ/Kragen) as i have experince in C# and other languages i already know most consepts and i just need to know the words
- - Unreal engine (1 month) 
+ - Unreal engine (3 month) 
    - Using my knowlage of other game engines to speed learn unreal
+   - I used it during my internship at She was such a good horse, working on live code
  - Unity (2-3 years) 
    - I have worked with practically all systems in unity from animations to lighting
    - Not just able to use the editor but also create tools to extend the editor
