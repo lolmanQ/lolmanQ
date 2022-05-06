@@ -2,7 +2,7 @@
 <h3 align="center">A Gameplay & Games programmer</h3>
 
 ## How am I?
-My name is Elias but online i'm known as lolmanQ. I have now been programming for 5 years, and work on a fair few projects
+My name is Elias but online i'm known as lolmanQ. I have been programming since 2014, and in that time work on a fair few projects
 
 ## My skills
 <!--
