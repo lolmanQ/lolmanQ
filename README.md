@@ -24,15 +24,16 @@ C# (2-3 years)
 </ul>
 -->
 
- - C++ (3 month)
+ - C++ (6 month)
+   - C++ course at TGA
    - I have started making a [game engine](https://github.com/lolmanQ/Kragen) as i have experince in C# and other languages i already know most consepts and i just need to know the words
- - Unreal engine (3 month) 
+ - Unreal engine (6 month) 
    - Using my knowlage of other game engines to speed learn unreal
    - I used it during my internship at She was such a good horse, working on live code
- - Unity (2-3 years) 
+ - Unity (3+ years) 
    - I have worked with practically all systems in unity from animations to lighting
    - Not just able to use the editor but also create tools to extend the editor
- - C# (2-3 years)
+ - C# (3+ years)
    - I have a background in software development and game development so i have a understanding of more complex sides of the C# language
    - My coding style is to write self-documenting code, as well as create systems that take care of themselves to reduce dependencies
 
@@ -130,12 +131,12 @@ Pocedural terrain generation with perlin noise
 https://github.com/lolmanQ/TerrainGenerator
 
 ## Other programming languages i know
- - Javascript
- - HTML5/HTML
- - CSS
- - SCSS
- - PHP
- - Node.js
+ - Javascript (4+ years)
+ - HTML5/HTML (4+ years)
+ - CSS (4+ years)
+ - SCSS (2+ years)
+ - PHP (1+ year)
+ - Node.js (2+ years)
 <!--
 **lolmanQ/lolmanQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
