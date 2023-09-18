@@ -24,7 +24,7 @@ C# (2-3 years)
 </ul>
 -->
 
- - C++ (6 month)
+ - C++ (1+ year)
    - C++ course at TGA
    - I have started making a [game engine](https://github.com/lolmanQ/Kragen) as i have experince in C# and other languages i already know most consepts and i just need to know the words
  - Unreal engine (6 month) 
