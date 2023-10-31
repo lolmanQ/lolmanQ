@@ -21,20 +21,22 @@ C# (2-3 years)
 </ul>
 </li>
 
+
+- I have started making a [game engine](https://github.com/lolmanQ/Kragen) as i have experince in C# and other languages i already know most consepts and i just need to know the words
+
 </ul>
 -->
 
  - C++ (1+ year)
-   - C++ course at TGA
-   - I have started making a [game engine](https://github.com/lolmanQ/Kragen) as i have experince in C# and other languages i already know most consepts and i just need to know the words
- - Unreal engine (6 month) 
-   - Using my knowlage of other game engines to speed learn unreal
+   - Studying at TGA
+ - Unreal Engine (6 month) 
+   - Using my knowledge of other game engines to speed learn unreal
    - I used it during my internship at She was such a good horse, working on live code
  - Unity (3+ years) 
    - I have worked with practically all systems in unity from animations to lighting
    - Not just able to use the editor but also create tools to extend the editor
  - C# (3+ years)
-   - I have a background in software development and game development so i have a understanding of more complex sides of the C# language
+   - I have a background in software development and game development so I have an understanding of the more complex sides of the C# language
    - My coding style is to write self-documenting code, as well as create systems that take care of themselves to reduce dependencies
 
 # Projects
@@ -45,7 +47,7 @@ C# (2-3 years)
 - Team size: 4 (2 programmers, 1 game designer, 1 artist)
 - My role: Lead programmer
 
-Imagine you take the level cause and effect from Titanfall 2, and you make a parkour system based on ghost runner and other movement games and boom you have this game
+Imagine you take the level cause and effect from Titanfall 2, and you make a parkour system based on ghost runner and other movement games, and boom you have this game
 [itch.io](https://lolmanq.itch.io/dual-time)
 
 I served as lead programmer. One of my many responsibilities was the movement
