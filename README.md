@@ -2,7 +2,7 @@
 <h3 align="center">A Gameplay & Games programmer</h3>
 
 ## How am I?
-My name is Elias but online i'm known as lolmanQ. I have been programming since 2014, and in that time work on a fair few projects
+My name is Elias but online I'm known as lolmanQ. I have been programming since 2014, and in that time work on a fair few projects
 
 ## My skills
 <!--
@@ -27,8 +27,9 @@ C# (2-3 years)
 </ul>
 -->
 
- - C++ (1+ year)
+ - C++ (2+ year)
    - Studying at TGA
+   - Making a game engine and editor from scratch with DX11
  - Unreal Engine (6 month) 
    - Using my knowledge of other game engines to speed learn unreal
    - I used it during my internship at She was such a good horse, working on live code
