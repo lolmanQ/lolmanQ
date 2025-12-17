@@ -1,5 +1,5 @@
 <h1 align="center">About me</h1>
-<h3 align="center">A Gameplay & Games programmer</h3>
+<h3 align="center">A Graphics & Core programmer</h3>
 
 ## Who am I?
 My name is Elias but online I'm known as lolmanQ. I have been programming since 2014, and in that time work on a fair few projects
