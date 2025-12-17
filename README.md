@@ -27,12 +27,12 @@ C# (2-3 years)
 </ul>
 -->
 
- - C++ (2+ year)
-   - Studying at TGA
+ - C++ (4+ year)
+   - Studied at TGA
    - Making a game engine and editor from scratch with DX11
- - Unreal Engine (6 month) 
-   - Using my knowledge of other game engines to speed learn unreal
-   - I used it during my internship at She was such a good horse, working on live code
+ - Unreal Engine (2+ years) 
+   - I used it during my internship at She was such a good horse, working on live code 
+   - Professionally used the engine while working at Star Vault
  - Unity (3+ years) 
    - I have worked with practically all systems in unity from animations to lighting
    - Not just able to use the editor but also create tools to extend the editor
